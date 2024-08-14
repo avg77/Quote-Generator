@@ -1,5 +1,5 @@
 var category = 'happiness';
-const apiKey = 'vX3Vc/DVQyyOOdGX8+1uXg==0vyJ5EwrEisui5BY';
+const apiKey = 'YOUR_API_KEY_HERE';
 const url = 'https://api.api-ninjas.com/v1/quotes?category=' + category;
 
 const quote = document.getElementById("quote");
